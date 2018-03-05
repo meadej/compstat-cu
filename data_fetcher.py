@@ -26,5 +26,7 @@ class data_fetcher:
         return return_array
 
     def store_objects_locally(self, object_list, local_destination):
+        i = 0
         for object in object_list:
-            self.store_object_locally(object, local_destination)
+            self.store_object_locally(object, local_destination + str(i) + ".pdf")
+            i += 1
