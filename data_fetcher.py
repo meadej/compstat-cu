@@ -7,13 +7,13 @@ class data_fetcher:
             outputWriter = open(local_destination)
             outputWriter.write(object)
             outputWriter.close()
-        except:
-            raise IOError("Unable to write object to " + str(local_destination))
+        except Exception:
+            raise IOError("Unable to write object to " + str(local_destination) + ".")
 
     def get_object_from_url(self, url):
         try:
             object = requests.get(str(url))
-            return object
+            return object.content
         except:
             raise IOError("Unable to fetch object at " + str(url))
 
