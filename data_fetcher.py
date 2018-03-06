@@ -1,4 +1,5 @@
 import requests
+import os
 
 class data_fetcher:
     def store_object_locally(self, object, local_destination):
@@ -28,5 +29,5 @@ class data_fetcher:
     def store_objects_locally(self, object_list, local_destination):
         i = 0
         for object in object_list:
-            self.store_object_locally(object, local_destination + str(i) + ".pdf")
+            self.store_object_locally(object, str(os.getcwd()) + local_destination + str(i) + ".pdf")
             i += 1
