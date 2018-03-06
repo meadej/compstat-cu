@@ -18,7 +18,7 @@ def main():
     for date in date_list:
         url_list.append("https://www.colorado.edu/police/blotter/" + str(format_date_string(date,"%Y%m%d")) + ".pdf")
     pdf_list = pdf_fetcher.get_list_objects(url_list)
-    pdf_fetcher.store_objects_locally(pdf_list, "pdfs/")
+    pdf_fetcher.store_objects_locally(pdf_list, "/pdfs/")
     return
 
 main()
