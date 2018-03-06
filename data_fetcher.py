@@ -4,7 +4,7 @@ import os
 class data_fetcher:
     def store_object_locally(self, object, local_destination):
         try:
-            outputWriter = open(local_destination)
+            outputWriter = open(local_destination, 'w')
             outputWriter.write(object)
             outputWriter.close()
         except:
