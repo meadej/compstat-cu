@@ -19,7 +19,7 @@ def lookup_address(address_string):
             lat_long = gi.get_lat_long_from_osm_content(content)
             return lat_long
         except:
-            return None
+            print("No matches found")
 
 
 address_arr = []
