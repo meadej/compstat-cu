@@ -5,19 +5,32 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
+
     <title>CompStat@CU</title>
   </head>
   <body>
   	<div class="container-fluid">
-  		<div class="row">
-  			<div class="col header">
+  		<div class="row r-header">
+  			<div class="col c-header">
   				<h1>CompStat@CU</h1>
   				<h3><a href="about.html">About</a></h3>
   			</div>
   		</div>
+  		<div class="row map-container">
+		    <div id="map"></div>
+		    <script>
+		      function initMap() {
+		        var map = new google.maps.Map(document.getElementById('map'), {
+		          center: {lat: 40.007678, lng: -105.266030},
+		          zoom: 16
+		        });
+		      }
+
+		    </script>
+		    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDa2y9PipcX-R83vbU9NseArWFxMupjjnE&callback=initMap" async defer></script>
+	  	</div>
   	</div>
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
