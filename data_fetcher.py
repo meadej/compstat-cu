@@ -2,9 +2,9 @@ import requests
 import os
 
 class data_fetcher:
-    def store_object_locally(self, object, local_destination):
+    def store_object_locally(self, object, title, local_destination):
         try:
-            outputWriter = open(local_destination, 'w')
+            outputWriter = open(local_destination + title, 'wb')
             outputWriter.write(object)
             outputWriter.close()
         except Exception:
@@ -26,8 +26,8 @@ class data_fetcher:
             raise Exception("Failed to get objects in list")
         return return_array
 
-    def store_objects_locally(self, object_list, local_destination):
+    def store_objects_locally(self, title_list, object_list, local_destination):
         i = 0
         for object in object_list:
-            self.store_object_locally(object, str(os.getcwd()) + local_destination + str(i) + ".pdf")
+            self.store_object_locally(object, str(title_list[i]), local_destination)
             i += 1
