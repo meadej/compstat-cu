@@ -28,3 +28,4 @@ read_addresses_from_file("/home/jon/code/cu-blotter/address_db.txt", address_arr
 for address in address_arr:
     lat_long = lookup_address(address)
     print(lat_long)
+    lat_long = lookup_address(address)
