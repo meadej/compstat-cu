@@ -1,5 +1,6 @@
 from geocoding_interface import geocoding_interface
 import os
+import time
 
 def read_addresses_from_file(file_location, address_arr):
     file_handle = open(file_location, 'r')
@@ -28,4 +29,5 @@ geo_int = geocoding_interface()
 read_addresses_from_file(os.getcwd() + "/address_db.txt", address_arr)
 
 for address in address_arr:
+    time.sleep(1)
     print(lookup_address(address, geo_int))
