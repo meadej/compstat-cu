@@ -9,37 +9,10 @@ html, body
 	height: 100%;
 }
 
-.c-header
-{
-	background-color: gray;
-	overflow: hidden;
-	text-align: left;
-}
-
-.c-header h1
-{
-	color: white;
-	float: left;
-	display: inline-block;
-    vertical-align: middle;
-}
-
-.c-header h3
-{
-	color: white;
-	float: right;
-	padding-top: 1%;
-	padding-right: 5%;
-}
-
-.c-header h3 a
-{
-	color: white;
-}
-
 .r-header
 {
 	height: 10%;
+	width: 100%;
 }
 
 .map-container
@@ -53,8 +26,7 @@ html, body
 	height: 100%;
 }
 
-.c-header img
+.nav-head
 {
-	float: left;
-	padding-top: 0.5%;
+	width:100%;
 }
