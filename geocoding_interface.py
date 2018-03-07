@@ -6,12 +6,20 @@ class geocoding_interface():
     def __init__(self):
         return
 
-    def handle_exception(self, ex):
+    def handle_exception(self, ex, method_name):
+        """
+        #Debugging stuff below
         print(type(ex))
         print(ex)
+        print(method_name)
+        """
+        raise Exception
 
     def format_address_url_safe(self, address):
-        return urllib.parse.quote_plus(address)
+        try:
+            return urllib.parse.quote_plus(address)
+        except Exception as ex:
+            self.handle_exception(ex, "format_address_url_safe")
 
     def format_address_into_census_query(self, address):
         address = self.format_address_url_safe(address)
@@ -30,14 +38,14 @@ class geocoding_interface():
             census_return = requests.get(url)
             return census_return.content.decode('utf-8')
         except Exception as ex:
-            self.handle_exception(ex)
+            self.handle_exception(ex, "query_census_for_content")
 
     def query_osm_for_content(self, url):
         try:
             osm_return = requests.get(url)
             return osm_return.content.decode('utf-8')
         except Exception as ex:
-            self.handle_exception(ex)
+            self.handle_exception(ex, "query_osm_for_content")
 
 
     def get_lat_long_from_census_content(self, content):
@@ -47,7 +55,7 @@ class geocoding_interface():
             lon = j_data['result']['addressMatches'][0]['coordinates']['y']
             return (lat, lon)
         except Exception as ex:
-            self.handle_exception(ex)
+            self.handle_exception(ex, "get_lat_long_from_census_content")
 
     def get_lat_long_from_osm_content(self, content):
         j_data = json.loads(content)
@@ -56,6 +64,6 @@ class geocoding_interface():
             lon = j_data[0]['lon']
             return (lat, lon)
         except Exception as ex:
-            self.handle_exception(ex)
+            self.handle_exception(ex, "get_lat_long_from_osm_content")
 
 

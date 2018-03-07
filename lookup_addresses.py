@@ -1,4 +1,5 @@
-from geocoding_interface import geocoding_interface as gi
+from geocoding_interface import geocoding_interface
+import os
 
 def read_addresses_from_file(file_location, address_arr):
     file_handle = open(file_location, 'r')
@@ -6,7 +7,7 @@ def read_addresses_from_file(file_location, address_arr):
         address = line.strip()
         address_arr.append(address)
 
-def lookup_address(address_string):
+def lookup_address(address_string, gi):
     try:
         url = gi.format_address_into_census_query(address_string)
         content = gi.query_census_for_content(url)
@@ -19,13 +20,12 @@ def lookup_address(address_string):
             lat_long = gi.get_lat_long_from_osm_content(content)
             return lat_long
         except:
-            print("No matches found")
+            print("No matches found - " + address_string)
 
 
 address_arr = []
-read_addresses_from_file("/home/jon/code/cu-blotter/address_db.txt", address_arr)
+geo_int = geocoding_interface()
+read_addresses_from_file(os.getcwd() + "/address_db.txt", address_arr)
 
 for address in address_arr:
-    lat_long = lookup_address(address)
-    print(lat_long)
-    lat_long = lookup_address(address)
+    print(lookup_address(address, geo_int))
