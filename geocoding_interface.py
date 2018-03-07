@@ -6,6 +6,10 @@ class geocoding_interface():
     def __init__(self):
         return
 
+    def handle_exception(self, ex):
+        print(type(ex))
+        print(ex)
+
     def format_address_url_safe(self, address):
         return urllib.parse.quote_plus(address)
 
@@ -25,15 +29,16 @@ class geocoding_interface():
         try:
             census_return = requests.get(url)
             return census_return.content.decode('utf-8')
-        except:
-            raise IOError("Unable to reach census website at " + str(url))
+        except Exception as ex:
+            self.handle_exception(ex)
 
     def query_osm_for_content(self, url):
         try:
             osm_return = requests.get(url)
             return osm_return.content.decode('utf-8')
-        except:
-            raise IOError("Unable to reach OSM website at " + str(url))
+        except Exception as ex:
+            self.handle_exception(ex)
+
 
     def get_lat_long_from_census_content(self, content):
         j_data = json.loads(content)
@@ -41,8 +46,8 @@ class geocoding_interface():
             lat = j_data['result']['addressMatches'][0]['coordinates']['x']
             lon = j_data['result']['addressMatches'][0]['coordinates']['y']
             return (lat, lon)
-        except:
-            raise IndexError("No matching data found from census")
+        except Exception as ex:
+            self.handle_exception(ex)
 
     def get_lat_long_from_osm_content(self, content):
         j_data = json.loads(content)
@@ -50,7 +55,7 @@ class geocoding_interface():
             lat = j_data[0]['lat']
             lon = j_data[0]['lon']
             return (lat, lon)
-        except:
-            raise IndexError("No matching data found from OSM")
+        except Exception as ex:
+            self.handle_exception(ex)
 
 
