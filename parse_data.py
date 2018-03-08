@@ -31,10 +31,11 @@ def parse_address_from_crime_string(cr_string):
     return address
 
 def parse_type_from_crime_string(cr_string):
-    cr_type = re.findall('8[0-9]{4} ([A-Z]{1}[a-z]*)', cr_string)[0]
+    cr_type = re.findall('8[0-9]{4} (\S*)', cr_string)[0]
     return cr_type
 
-absolute_dir = "/home/jon/code/cu-blotter/pdfs/"
+absolute_dir = str(os.getcwd()) + "/pdfs/"
+#absolute_dir = "/home/jon/code/cu-blotter/pdfs/"
 #Testing purposes
 #absolute_dir = "C:/Users/Jon/Documents/GitHub/cu-blotter/pdfs/"
 files = get_file_list(absolute_dir)

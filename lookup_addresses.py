@@ -30,4 +30,6 @@ read_addresses_from_file(os.getcwd() + "/address_db.txt", address_arr)
 
 for address in address_arr:
     time.sleep(1)
-    print(lookup_address(address, geo_int))
+    ll = lookup_address(address, geo_int)
+    if (ll != None):
+        print(ll)
