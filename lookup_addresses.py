@@ -1,11 +1,14 @@
 from geocoding_interface import geocoding_interface
 import os
 import time
+import json
 
 def read_addresses_from_file(file_location, address_arr):
     file_handle = open(file_location, 'r')
     for line in file_handle.readlines():
-        address = line.strip()
+        j_data = json.loads(line.strip())
+        case_num = list(j_data.keys())[0]
+        address = j_data[case_num]["address"]
         address_arr.append(address)
 
 def lookup_address(address_string, gi):
@@ -26,7 +29,8 @@ def lookup_address(address_string, gi):
 
 address_arr = []
 geo_int = geocoding_interface()
-read_addresses_from_file(os.getcwd() + "/address_db.txt", address_arr)
+data_file = "/crime_db.json"
+read_addresses_from_file(os.getcwd() + data_file, address_arr)
 
 for address in address_arr:
     time.sleep(1)
