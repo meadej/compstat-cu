@@ -31,6 +31,7 @@ for line in f_handle.readlines():
     lat_lon = lookup_address(j_line_data[case_number]['address'], geo_int)
     if lat_lon != None:
         j_line_data[case_number]["coordinates"] = {}
-        j_line_data[case_number]["coordinates"]["lat"] = lat_lon[0]
-        j_line_data[case_number]["coordinates"]["lon"] = lat_lon[1]
-        print(j_line_data)
+        j_line_data[case_number]["coordinates"]["lat"] = float(lat_lon[0])
+        j_line_data[case_number]["coordinates"]["lon"] = float(lat_lon[1])
+        j_return_data = json.dumps(j_line_data)
+        print(j_return_data)
