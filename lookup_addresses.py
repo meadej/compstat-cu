@@ -35,5 +35,7 @@ read_addresses_from_file(os.getcwd() + data_file, address_arr)
 for address in address_arr:
     time.sleep(1)
     ll = lookup_address(address, geo_int)
+    j_styled_data = {"lon":ll[0], "lat":ll[1]}
+    j_data = json.dumps(j_styled_data)
     if (ll != None):
-        print(ll)
+        print(j_data)
