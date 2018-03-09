@@ -15,7 +15,7 @@
   		<div class="row r-header">
   			<nav class="navbar navbar-dark bg-dark nav-head">
   				<span class="navbar-brand mb-0 h1">Compstat@CU</span>
-          <span class="navbar-brand mb-0 h1"><a href="about.html">About</a></span>
+          <span class="navbar-brand mb-0 h1"><a href="about.html">About</a> </span>
 			</nav>
   		</div>
   		<div class="row map-container">
@@ -26,8 +26,11 @@
 		          center: {lat: 40.007678, lng: -105.266030},
 		          zoom: 16
 		        });
+            map.data.loadGeoJson("crime_db.geojson")
+            map.data.setStyle({
+            fillColor: 'green'
+          });
 		      }
-
 		    </script>
 		    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDa2y9PipcX-R83vbU9NseArWFxMupjjnE&callback=initMap" async defer></script>
 	  	</div>
