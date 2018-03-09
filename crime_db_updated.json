@@ -1,0 +1,438 @@
+{'2017-00003191': {'coordinates': {'lon': 40.01482, 'lat': -105.23641}, 'date': '12/01/2017 19:02 - 12/01/2017 19:02', 'address': '4747 ARAPAHOE AVE Boulder CO', 'category': 'Assault'}}
+{'2017-00003191': {'coordinates': {'lon': 40.01482, 'lat': -105.23641}, 'date': '12/01/2017 19:02 - 12/01/2017 19:02', 'address': '4747 ARAPAHOE AVE Boulder CO', 'category': 'Assault'}}
+{'2017-00003191': {'coordinates': {'lon': 40.01482, 'lat': -105.23641}, 'date': '12/01/2017 19:02 - 12/01/2017 19:02', 'address': '4747 ARAPAHOE AVE Boulder CO', 'category': 'Assault'}}
+{'2018-00000090': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/16/2018 20:34 - 01/16/2018 20:45', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000091': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/16/2018 20:24 - 01/16/2018 20:24', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000091': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/16/2018 20:24 - 01/16/2018 20:24', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000091': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/16/2018 20:24 - 01/16/2018 20:24', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000091': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/16/2018 20:24 - 01/16/2018 20:24', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000092': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/16/2018 19:04 - 01/16/2018 19:40', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00008022': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '12/20/2017 10:25 - 01/16/2018 10:25', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008024': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/14/2018 21:10 - 01/14/2018 21:10', 'address': '500 30TH ST Boulder CO', 'category': 'Theft'}}
+{'2018-00008024': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/14/2018 21:10 - 01/14/2018 21:10', 'address': '500 30TH ST Boulder CO', 'category': 'Theft'}}
+{'2018-00000095': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/17/2018 00:40 - 01/17/2018 00:50', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000099': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '01/17/2018 13:40 - 01/17/2018 13:40', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000100': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '01/17/2018 13:45 - 01/17/2018 13:45', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000101': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/17/2018 08:50 - 01/17/2018 08:50', 'address': '2115 BAKER DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000102': {'coordinates': {'lon': 39.99586, 'lat': -105.25027}, 'date': '01/17/2018 17:35 - 01/17/2018 17:35', 'address': '3355 APACHE RD Boulder CO', 'category': 'Criminal'}}
+{'2018-00000102': {'coordinates': {'lon': 39.99586, 'lat': -105.25027}, 'date': '01/17/2018 17:35 - 01/17/2018 17:35', 'address': '3355 APACHE RD Boulder CO', 'category': 'Criminal'}}
+{'2018-00000103': {'coordinates': {'lon': 39.99586, 'lat': -105.25027}, 'date': '01/17/2018 17:53 - 01/17/2018 17:53', 'address': '3355 APACHE RD Boulder CO', 'category': 'Criminal'}}
+{'2018-00000103': {'coordinates': {'lon': 39.99586, 'lat': -105.25027}, 'date': '01/17/2018 17:53 - 01/17/2018 17:53', 'address': '3355 APACHE RD Boulder CO', 'category': 'Criminal'}}
+{'2018-00000104': {'coordinates': {'lon': 40.012634, 'lat': -105.27142}, 'date': '01/17/2018 18:05 - 01/17/2018 18:05', 'address': '1855 ATHENS ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000104': {'coordinates': {'lon': 40.012634, 'lat': -105.27142}, 'date': '01/17/2018 18:05 - 01/17/2018 18:05', 'address': '1855 ATHENS ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000106': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '01/17/2018 20:02 - 01/17/2018 20:36', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000107': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/17/2018 21:54 - 01/17/2018 22:05', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00008027': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '12/20/2017 14:15 - 01/17/2018 14:15', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Theft'}}
+{'2018-00008029': {'coordinates': {'lon': 40.007294, 'lat': -105.26549}, 'date': '12/22/2017 18:10 - 01/15/2018 18:10', 'address': '2370 LIBBY DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000110': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/18/2018 00:57 - 01/18/2018 01:20', 'address': '600 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000111': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/18/2018 02:03 - 01/18/2018 02:09', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00000111': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/18/2018 02:03 - 01/18/2018 02:09', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00000117': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/18/2018 17:30 - 01/18/2018 17:30', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000118': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/18/2018 20:07 - 01/18/2018 20:42', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000120': {'coordinates': {'lon': 40.012634, 'lat': -105.27142}, 'date': '01/15/2018 00:00 - 01/18/2018 20:40', 'address': '1855 ATHENS ST Boulder CO', 'category': 'Criminal'}}
+{'2018-00000121': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/18/2018 22:00 - 01/18/2018 22:00', 'address': '2200 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000123': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/18/2018 22:10 - 01/18/2018 22:10', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00000123': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/18/2018 22:10 - 01/18/2018 22:10', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00000124': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/18/2018 22:43 - 01/18/2018 22:58', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000125': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/18/2018 22:52 - 01/18/2018 23:00', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000125': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/18/2018 22:52 - 01/18/2018 23:00', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00008018': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '12/20/2017 11:20 - 01/14/2018 11:20', 'address': '2200 BAKER DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008030': {'coordinates': {'lon': 40.00824, 'lat': -105.26755}, 'date': '01/18/2018 08:50 - 01/18/2018 09:50', 'address': '2000 COLORADO AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00008032': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '01/18/2018 10:00 - 01/18/2018 16:40', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008033': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '01/18/2018 09:40 - 01/18/2018 16:50', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008033': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '01/18/2018 09:40 - 01/18/2018 16:50', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008034': {'coordinates': {'lon': 40.012634, 'lat': -105.27142}, 'date': '12/17/2017 20:50 - 01/15/2018 12:00', 'address': '1855 ATHENS ST Boulder CO', 'category': 'Theft'}}
+{'2018-00000129': {'coordinates': {'lon': 40.01218, 'lat': -105.277824}, 'date': '01/19/2018 03:30 - 01/19/2018 03:34', 'address': '1546 BROADWAY Boulder CO', 'category': 'Other'}}
+{'2018-00000129': {'coordinates': {'lon': 40.01218, 'lat': -105.277824}, 'date': '01/19/2018 03:30 - 01/19/2018 03:34', 'address': '1546 BROADWAY Boulder CO', 'category': 'Other'}}
+{'2018-00000129': {'coordinates': {'lon': 40.01218, 'lat': -105.277824}, 'date': '01/19/2018 03:30 - 01/19/2018 03:34', 'address': '1546 BROADWAY Boulder CO', 'category': 'Other'}}
+{'2018-00000129': {'coordinates': {'lon': 40.01218, 'lat': -105.277824}, 'date': '01/19/2018 03:30 - 01/19/2018 03:34', 'address': '1546 BROADWAY Boulder CO', 'category': 'Other'}}
+{'2018-00000129': {'coordinates': {'lon': 40.01218, 'lat': -105.277824}, 'date': '01/19/2018 03:30 - 01/19/2018 03:34', 'address': '1546 BROADWAY Boulder CO', 'category': 'Other'}}
+{'2018-00000129': {'coordinates': {'lon': 40.01218, 'lat': -105.277824}, 'date': '01/19/2018 03:30 - 01/19/2018 03:34', 'address': '1546 BROADWAY Boulder CO', 'category': 'Other'}}
+{'2018-00000133': {'coordinates': {'lon': 40.02609, 'lat': -105.24857}, 'date': '01/05/2018 15:00 - 01/05/2018 15:00', 'address': '2860 WILDERNESS PL Boulder CO', 'category': 'Assault'}}
+{'2018-00000135': {'coordinates': {'lon': '-105.262271496453', 'lat': '40.00222405'}, 'date': '01/19/2018 19:30 - 01/19/2018 19:30', 'address': '2525 KITTREDGE LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000136': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/19/2018 20:14 - 01/19/2018 21:01', 'address': '2005 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000137': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/19/2018 21:15 - 01/19/2018 21:39', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000138': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/19/2018 21:38 - 01/19/2018 21:38', 'address': '2005 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000138': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/19/2018 21:38 - 01/19/2018 21:38', 'address': '2005 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000139': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/19/2018 22:24 - 01/19/2018 22:49', 'address': '500 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000140': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/19/2018 23:01 - 01/19/2018 23:41', 'address': '600 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00008030': {'coordinates': {'lon': 40.00824, 'lat': -105.26755}, 'date': '01/18/2018 08:50 - 01/18/2018 09:50', 'address': '2000 COLORADO AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00008033': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '01/18/2018 09:40 - 01/18/2018 16:50', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008033': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '01/18/2018 09:40 - 01/18/2018 16:50', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000143': {'coordinates': {'lon': '-105.2798985', 'lat': '40.0094611'}, 'date': '01/20/2018 00:04 - 01/20/2018 00:32', 'address': '1540 PLEASANT ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000144': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/20/2018 00:36 - 01/20/2018 01:19', 'address': '2200 BAKER DR Boulder CO', 'category': 'Assist'}}
+{'2018-00000144': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/20/2018 00:36 - 01/20/2018 01:19', 'address': '2200 BAKER DR Boulder CO', 'category': 'Assist'}}
+{'2018-00000144': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/20/2018 00:36 - 01/20/2018 01:19', 'address': '2200 BAKER DR Boulder CO', 'category': 'Assist'}}
+{'2018-00000145': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/20/2018 01:10 - 01/20/2018 01:10', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000146': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '01/20/2018 01:15 - 01/20/2018 01:15', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000149': {'coordinates': {'lon': '-105.262271496453', 'lat': '40.00222405'}, 'date': '01/20/2018 01:19 - 01/20/2018 01:19', 'address': '2525 KITTREDGE LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000151': {'coordinates': {'lon': '-105.2670608', 'lat': '40.0065512'}, 'date': '01/20/2018 01:37 - 01/20/2018 01:37', 'address': '2000 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000152': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/20/2018 01:45 - 01/20/2018 01:45', 'address': '2115 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000153': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/20/2018 02:15 - 01/20/2018 02:15', 'address': '2005 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000154': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/20/2018 02:33 - 01/20/2018 02:33', 'address': '2115 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000156': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/20/2018 13:33 - 01/20/2018 13:33', 'address': '600 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000157': {'coordinates': {'lon': '-105.261052683238', 'lat': '40.0067495'}, 'date': '01/20/2018 18:30 - 01/20/2018 18:30', 'address': '1050 REGENT DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000158': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '01/20/2018 19:30 - 01/20/2018 20:20', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000158': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '01/20/2018 19:30 - 01/20/2018 20:20', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000160': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/20/2018 20:36 - 01/20/2018 20:52', 'address': '600 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000161': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/20/2018 21:10 - 01/20/2018 21:27', 'address': '600 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000162': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/20/2018 21:40 - 01/20/2018 22:28', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000162': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/20/2018 21:40 - 01/20/2018 22:28', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000163': {'coordinates': {'lon': '-105.2642444', 'lat': '40.0038877'}, 'date': '01/20/2018 21:36 - 01/20/2018 21:36', 'address': '2100 REGENT DR Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000163': {'coordinates': {'lon': '-105.2642444', 'lat': '40.0038877'}, 'date': '01/20/2018 21:36 - 01/20/2018 21:36', 'address': '2100 REGENT DR Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000163': {'coordinates': {'lon': '-105.2642444', 'lat': '40.0038877'}, 'date': '01/20/2018 21:36 - 01/20/2018 21:36', 'address': '2100 REGENT DR Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000163': {'coordinates': {'lon': '-105.2642444', 'lat': '40.0038877'}, 'date': '01/20/2018 21:36 - 01/20/2018 21:36', 'address': '2100 REGENT DR Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000183': {'coordinates': {'lon': '-105.2670608', 'lat': '40.0065512'}, 'date': '01/20/2018 01:20 - 01/20/2018 01:20', 'address': '2000 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00008039': {'coordinates': {'lon': 40.003376, 'lat': -105.26297}, 'date': '01/19/2018 17:00 - 01/19/2018 20:40', 'address': '2450 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000170': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/21/2018 01:37 - 01/21/2018 01:58', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000170': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/21/2018 01:37 - 01/21/2018 01:58', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000170': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/21/2018 01:37 - 01/21/2018 01:58', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000171': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/21/2018 02:16 - 01/21/2018 04:05', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000171': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/21/2018 02:16 - 01/21/2018 04:05', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000171': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/21/2018 02:16 - 01/21/2018 04:05', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000172': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '01/21/2018 19:32 - 01/21/2018 19:32', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Warrant'}}
+{'2018-00000172': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '01/21/2018 19:32 - 01/21/2018 19:32', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Warrant'}}
+{'2018-00000172': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '01/21/2018 19:32 - 01/21/2018 19:32', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Warrant'}}
+{'2018-00000173': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '01/21/2018 20:34 - 01/21/2018 21:11', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000173': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '01/21/2018 20:34 - 01/21/2018 21:11', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000174': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/21/2018 21:20 - 01/21/2018 22:00', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00000175': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/21/2018 22:52 - 01/21/2018 22:52', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000175': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/21/2018 22:52 - 01/21/2018 22:52', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000175': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/21/2018 22:52 - 01/21/2018 22:52', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000175': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/21/2018 22:52 - 01/21/2018 22:52', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000178': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '01/22/2018 00:15 - 01/22/2018 01:52', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000180': {'coordinates': {'lon': 40.014496, 'lat': -105.24643}, 'date': '01/22/2018 08:05 - 01/22/2018 08:05', 'address': '3800 ARAPAHOE AVE Boulder CO', 'category': 'Other'}}
+{'2018-00000185': {'coordinates': {'lon': '-105.269676', 'lat': '40.004768'}, 'date': '01/22/2018 13:21 - 01/22/2018 13:21', 'address': '18TH ST /  BROADWAY Boulder CO', 'category': 'Traffic'}}
+{'2018-00000185': {'coordinates': {'lon': '-105.269676', 'lat': '40.004768'}, 'date': '01/22/2018 13:21 - 01/22/2018 13:21', 'address': '18TH ST /  BROADWAY Boulder CO', 'category': 'Traffic'}}
+{'2018-00000186': {'coordinates': {'lon': 40.00675, 'lat': -105.26562}, 'date': '01/21/2018 02:00 - 01/21/2018 02:00', 'address': '2320 LIBBY DR Boulder CO', 'category': 'Sex'}}
+{'2018-00000190': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '01/22/2018 23:30 - 01/22/2018 23:30', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000190': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '01/22/2018 23:30 - 01/22/2018 23:30', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000191': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/22/2018 22:15 - 01/22/2018 22:45', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000193': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/22/2018 22:51 - 01/22/2018 23:19', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000193': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/22/2018 22:51 - 01/22/2018 23:19', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000194': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/22/2018 23:29 - 01/23/2018 00:00', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000194': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/22/2018 23:29 - 01/23/2018 00:00', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000194': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/22/2018 23:29 - 01/23/2018 00:00', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00008042': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '11/17/2017 20:00 - 11/18/2017 08:00', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008043': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '01/20/2018 14:40 - 01/22/2018 14:40', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000194': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/22/2018 23:29 - 01/23/2018 00:00', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000194': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/22/2018 23:29 - 01/23/2018 00:00', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000194': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/22/2018 23:29 - 01/23/2018 00:00', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000197': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/23/2018 01:01 - 01/23/2018 01:33', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00000197': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/23/2018 01:01 - 01/23/2018 01:33', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00000198': {'coordinates': {'lon': '-105.269644', 'lat': '40.006859'}, 'date': '01/23/2018 09:00 - 01/23/2018 09:00', 'address': '18TH ST /  EUCLID AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000198': {'coordinates': {'lon': '-105.269644', 'lat': '40.006859'}, 'date': '01/23/2018 09:00 - 01/23/2018 09:00', 'address': '18TH ST /  EUCLID AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000198': {'coordinates': {'lon': '-105.269644', 'lat': '40.006859'}, 'date': '01/23/2018 09:00 - 01/23/2018 09:00', 'address': '18TH ST /  EUCLID AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000200': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '01/23/2018 13:00 - 01/23/2018 13:00', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000201': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '01/23/2018 14:25 - 01/23/2018 14:25', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000203': {'coordinates': {'lon': '-105.261052683238', 'lat': '40.0067495'}, 'date': '01/23/2018 17:00 - 01/23/2018 17:00', 'address': '1050 REGENT DR Boulder CO', 'category': 'Harassment'}}
+{'2018-00000204': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '01/23/2018 20:10 - 01/23/2018 20:20', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000206': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/23/2018 20:58 - 01/23/2018 21:08', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000207': {'coordinates': {'lon': '-105.2610012', 'lat': '40.0024048'}, 'date': '01/23/2018 21:50 - 01/23/2018 22:30', 'address': '2605 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000207': {'coordinates': {'lon': '-105.2610012', 'lat': '40.0024048'}, 'date': '01/23/2018 21:50 - 01/23/2018 22:30', 'address': '2605 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000208': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '01/23/2018 19:55 - 01/23/2018 22:26', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Criminal'}}
+{'2018-00008017': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '12/21/2017 10:45 - 01/13/2018 10:45', 'address': '2200 BAKER DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008047': {'coordinates': {'lon': '-105.262271496453', 'lat': '40.00222405'}, 'date': '01/23/2018 16:30 - 01/23/2018 16:40', 'address': '2525 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000100': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '01/17/2018 13:45 - 01/17/2018 13:45', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000215': {'coordinates': {'lon': 40.010254, 'lat': -105.25349}, 'date': '01/24/2018 04:45 - 01/24/2018 10:00', 'address': '1300 30TH ST Boulder CO', 'category': 'Criminal'}}
+{'2018-00000215': {'coordinates': {'lon': 40.010254, 'lat': -105.25349}, 'date': '01/24/2018 04:45 - 01/24/2018 10:00', 'address': '1300 30TH ST Boulder CO', 'category': 'Criminal'}}
+{'2018-00000217': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '01/24/2018 00:30 - 01/24/2018 07:00', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Criminal'}}
+{'2018-00000217': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '01/24/2018 00:30 - 01/24/2018 07:00', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Criminal'}}
+{'2018-00000220': {'coordinates': {'lon': '-105.261052683238', 'lat': '40.0067495'}, 'date': '01/24/2018 13:42 - 01/24/2018 13:42', 'address': '1050 REGENT DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000222': {'coordinates': {'lon': 40.007523, 'lat': -105.24983}, 'date': '01/24/2018 16:30 - 01/24/2018 16:30', 'address': '3415 COLORADO AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000224': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/24/2018 21:33 - 01/24/2018 22:05', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000224': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/24/2018 21:33 - 01/24/2018 22:05', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00008049': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '01/23/2018 17:50 - 01/24/2018 11:00', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000217': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '01/24/2018 00:30 - 01/24/2018 07:00', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Criminal'}}
+{'2018-00000217': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '01/24/2018 00:30 - 01/24/2018 07:00', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Criminal'}}
+{'2018-00000222': {'coordinates': {'lon': 40.007523, 'lat': -105.24983}, 'date': '01/24/2018 16:30 - 01/24/2018 16:30', 'address': '3415 COLORADO AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000226': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/25/2018 00:09 - 01/25/2018 00:45', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000226': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/25/2018 00:09 - 01/25/2018 00:45', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000227': {'coordinates': {'lon': 39.999912, 'lat': -105.25443}, 'date': '01/25/2018 02:00 - 01/25/2018 02:00', 'address': '2950 BASELINE RD Boulder CO', 'category': 'Other'}}
+{'2018-00000231': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/25/2018 19:34 - 01/25/2018 19:54', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000232': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/25/2018 03:00 - 01/25/2018 03:00', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Criminal'}}
+{'2018-00000234': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/25/2018 22:00 - 01/25/2018 22:30', 'address': '2005 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000234': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/25/2018 22:00 - 01/25/2018 22:30', 'address': '2005 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000237': {'coordinates': {'lon': '-105.272764076226', 'lat': '40.0099895'}, 'date': '01/26/2018 00:19 - 01/26/2018 00:19', 'address': '1595 PLEASANT ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000237': {'coordinates': {'lon': '-105.272764076226', 'lat': '40.0099895'}, 'date': '01/26/2018 00:19 - 01/26/2018 00:19', 'address': '1595 PLEASANT ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000239': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/26/2018 00:54 - 01/26/2018 01:27', 'address': '2005 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000239': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/26/2018 00:54 - 01/26/2018 01:27', 'address': '2005 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000239': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/26/2018 00:54 - 01/26/2018 01:27', 'address': '2005 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000239': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/26/2018 00:54 - 01/26/2018 01:27', 'address': '2005 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000241': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/26/2018 01:41 - 01/26/2018 01:41', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00000241': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/26/2018 01:41 - 01/26/2018 01:41', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00000244': {'coordinates': {'lon': 40.008266, 'lat': -105.2676}, 'date': '01/17/2018 06:20 - 01/17/2018 06:20', 'address': '1995 COLORADO AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000247': {'coordinates': {'lon': 40.007523, 'lat': -105.24983}, 'date': '01/26/2018 00:30 - 01/26/2018 00:30', 'address': '3415 COLORADO AVE Boulder CO', 'category': 'Violation'}}
+{'2018-00000247': {'coordinates': {'lon': 40.007523, 'lat': -105.24983}, 'date': '01/26/2018 00:30 - 01/26/2018 00:30', 'address': '3415 COLORADO AVE Boulder CO', 'category': 'Violation'}}
+{'2018-00000250': {'coordinates': {'lon': 39.99586, 'lat': -105.25027}, 'date': '01/26/2018 22:30 - 01/26/2018 22:30', 'address': '3355 APACHE RD Boulder CO', 'category': 'Other'}}
+{'2018-00008052': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/25/2018 18:30 - 01/26/2018 10:30', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Theft'}}
+{'2018-00000251': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/26/2018 23:39 - 01/27/2018 00:15', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000251': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/26/2018 23:39 - 01/27/2018 00:15', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000252': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/27/2018 00:48 - 01/27/2018 01:00', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000252': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/27/2018 00:48 - 01/27/2018 01:00', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000254': {'coordinates': {'lon': '-105.272764076226', 'lat': '40.0099895'}, 'date': '01/27/2018 03:01 - 01/27/2018 03:01', 'address': '1595 PLEASANT ST Boulder CO', 'category': 'Other'}}
+{'2018-00000255': {'coordinates': {'lon': '-105.2611941', 'lat': '39.9967495'}, 'date': '01/27/2018 03:16 - 01/27/2018 04:00', 'address': 'BROADWAY /  Boulder CO', 'category': 'Other'}}
+{'2018-00000255': {'coordinates': {'lon': '-105.2611941', 'lat': '39.9967495'}, 'date': '01/27/2018 03:16 - 01/27/2018 04:00', 'address': 'BROADWAY /  Boulder CO', 'category': 'Other'}}
+{'2018-00000255': {'coordinates': {'lon': '-105.2611941', 'lat': '39.9967495'}, 'date': '01/27/2018 03:16 - 01/27/2018 04:00', 'address': 'BROADWAY /  Boulder CO', 'category': 'Other'}}
+{'2018-00000255': {'coordinates': {'lon': '-105.2611941', 'lat': '39.9967495'}, 'date': '01/27/2018 03:16 - 01/27/2018 04:00', 'address': 'BROADWAY /  Boulder CO', 'category': 'Other'}}
+{'2018-00000257': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/27/2018 03:45 - 01/27/2018 03:45', 'address': '600 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000258': {'coordinates': {'lon': '-105.2642444', 'lat': '40.0038877'}, 'date': '01/26/2018 11:14 - 01/27/2018 10:16', 'address': '2180 REGENT DR Boulder CO', 'category': 'Criminal'}}
+{'2018-00000258': {'coordinates': {'lon': '-105.2642444', 'lat': '40.0038877'}, 'date': '01/26/2018 11:14 - 01/27/2018 10:16', 'address': '2180 REGENT DR Boulder CO', 'category': 'Criminal'}}
+{'2018-00000262': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '01/27/2018 21:00 - 01/27/2018 21:38', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000262': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '01/27/2018 21:00 - 01/27/2018 21:38', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000263': {'coordinates': {'lon': '-105.247207076034', 'lat': '40.0140397'}, 'date': '01/27/2018 21:55 - 01/27/2018 21:55', 'address': '3645 MARINE ST Boulder CO', 'category': 'Theft'}}
+{'2018-00000264': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/27/2018 22:01 - 01/27/2018 22:01', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000264': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/27/2018 22:01 - 01/27/2018 22:01', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000265': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/27/2018 22:44 - 01/27/2018 22:56', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000266': {'coordinates': {'lon': 40.009937, 'lat': -105.2458}, 'date': '01/27/2018 22:50 - 01/27/2018 22:50', 'address': '3625 DISCOVERY DR Boulder CO', 'category': 'Warrant'}}
+{'2018-00000267': {'coordinates': {'lon': 39.996445, 'lat': -105.25124}, 'date': '01/27/2018 23:41 - 01/27/2018 23:41', 'address': '3275 APACHE RD Boulder CO', 'category': 'Criminal'}}
+{'2018-00000268': {'coordinates': {'lon': 40.009937, 'lat': -105.2458}, 'date': '01/27/2018 22:50 - 01/27/2018 22:50', 'address': '3625 DISCOVERY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000268': {'coordinates': {'lon': 40.009937, 'lat': -105.2458}, 'date': '01/27/2018 22:50 - 01/27/2018 22:50', 'address': '3625 DISCOVERY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000268': {'coordinates': {'lon': 40.009937, 'lat': -105.2458}, 'date': '01/27/2018 22:50 - 01/27/2018 22:50', 'address': '3625 DISCOVERY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000268': {'coordinates': {'lon': 40.009937, 'lat': -105.2458}, 'date': '01/27/2018 22:50 - 01/27/2018 22:50', 'address': '3625 DISCOVERY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000263': {'coordinates': {'lon': '-105.247207076034', 'lat': '40.0140397'}, 'date': '01/27/2018 21:55 - 01/27/2018 21:55', 'address': '3645 MARINE ST Boulder CO', 'category': 'Theft'}}
+{'2018-00000266': {'coordinates': {'lon': 40.009937, 'lat': -105.2458}, 'date': '01/27/2018 22:50 - 01/27/2018 22:50', 'address': '3625 DISCOVERY DR Boulder CO', 'category': 'Warrant'}}
+{'2018-00000267': {'coordinates': {'lon': 39.996445, 'lat': -105.25124}, 'date': '01/27/2018 23:41 - 01/27/2018 23:41', 'address': '3275 APACHE RD Boulder CO', 'category': 'Criminal'}}
+{'2018-00000268': {'coordinates': {'lon': 40.009937, 'lat': -105.2458}, 'date': '01/27/2018 22:50 - 01/27/2018 22:50', 'address': '3625 DISCOVERY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000268': {'coordinates': {'lon': 40.009937, 'lat': -105.2458}, 'date': '01/27/2018 22:50 - 01/27/2018 22:50', 'address': '3625 DISCOVERY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000268': {'coordinates': {'lon': 40.009937, 'lat': -105.2458}, 'date': '01/27/2018 22:50 - 01/27/2018 22:50', 'address': '3625 DISCOVERY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000268': {'coordinates': {'lon': 40.009937, 'lat': -105.2458}, 'date': '01/27/2018 22:50 - 01/27/2018 22:50', 'address': '3625 DISCOVERY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000270': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/28/2018 01:40 - 01/28/2018 02:04', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000270': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/28/2018 01:40 - 01/28/2018 02:04', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000272': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '01/28/2018 20:56 - 01/28/2018 21:07', 'address': '2005 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000273': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '01/28/2018 21:45 - 01/28/2018 21:45', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000273': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '01/28/2018 21:45 - 01/28/2018 21:45', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000273': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '01/28/2018 21:45 - 01/28/2018 21:45', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000274': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '01/28/2018 22:10 - 01/28/2018 22:30', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Alcohol'}}
+{'2018-00008057': {'coordinates': {'lon': 40.012604, 'lat': -105.27006}, 'date': '01/28/2018 02:00 - 01/28/2018 07:00', 'address': '1910 ATHENS ST Boulder CO', 'category': 'Theft'}}
+{'2018-00008058': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/26/2018 22:05 - 01/26/2018 22:05', 'address': '2115 BAKER DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008058': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '01/26/2018 22:05 - 01/26/2018 22:05', 'address': '2115 BAKER DR Boulder CO', 'category': 'Theft'}}
+{'2017-00008522': {'coordinates': {'lon': 40.01451, 'lat': -105.26407}, 'date': '10/10/2017 00:10 - 10/10/2017 10:00', 'address': '2300 ARAPAHOE AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000276': {'coordinates': {'lon': '-105.261052683238', 'lat': '40.0067495'}, 'date': '01/29/2018 10:22 - 01/29/2018 10:22', 'address': '1050 REGENT DR Boulder CO', 'category': 'Accident'}}
+{'2018-00000278': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '01/29/2018 10:55 - 01/29/2018 10:55', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000281': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/29/2018 20:20 - 01/29/2018 20:49', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000282': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/29/2018 20:50 - 01/29/2018 21:06', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00008060': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '01/27/2018 16:30 - 01/29/2018 11:30', 'address': '500 30TH ST Boulder CO', 'category': 'Theft'}}
+{'2018-00008062': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/28/2018 11:00 - 01/28/2018 12:00', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00008062': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '01/28/2018 11:00 - 01/28/2018 12:00', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00008065': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '01/29/2018 17:45 - 01/29/2018 17:45', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008067': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/29/2018 18:30 - 01/29/2018 18:30', 'address': '2200 BAKER DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000186': {'coordinates': {'lon': 40.00675, 'lat': -105.26562}, 'date': '01/21/2018 02:00 - 01/21/2018 02:00', 'address': '2320 LIBBY DR Boulder CO', 'category': 'Sex'}}
+{'2018-00000244': {'coordinates': {'lon': 40.008266, 'lat': -105.2676}, 'date': '01/17/2018 06:20 - 01/17/2018 06:20', 'address': '1995 COLORADO AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000284': {'coordinates': {'lon': '-105.252947', 'lat': '40.000596'}, 'date': '01/29/2018 22:55 - 01/30/2018 00:20', 'address': '30TH ST /  BASELINE RD Boulder CO', 'category': 'Traffic'}}
+{'2018-00000284': {'coordinates': {'lon': '-105.252947', 'lat': '40.000596'}, 'date': '01/29/2018 22:55 - 01/30/2018 00:20', 'address': '30TH ST /  BASELINE RD Boulder CO', 'category': 'Traffic'}}
+{'2018-00000286': {'coordinates': {'lon': '-105.258838', 'lat': '40.007007'}, 'date': '01/30/2018 03:56 - 01/30/2018 04:05', 'address': '28TH ST /  COLORADO AVE Boulder CO', 'category': 'Warrant'}}
+{'2018-00000286': {'coordinates': {'lon': '-105.258838', 'lat': '40.007007'}, 'date': '01/30/2018 03:56 - 01/30/2018 04:05', 'address': '28TH ST /  COLORADO AVE Boulder CO', 'category': 'Warrant'}}
+{'2018-00000291': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '01/30/2018 17:25 - 01/30/2018 17:25', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000292': {'coordinates': {'lon': '-105.264108295918', 'lat': '40.0052098469388'}, 'date': '01/30/2018 12:30 - 01/30/2018 20:30', 'address': '1040 REGENT DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000293': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/30/2018 20:18 - 01/30/2018 20:54', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000293': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '01/30/2018 20:18 - 01/30/2018 20:54', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00008070': {'coordinates': {'lon': '-105.2798985', 'lat': '40.0094611'}, 'date': '01/29/2018 13:35 - 01/29/2018 14:50', 'address': '1835 PLEASANT ST Boulder CO', 'category': 'Theft'}}
+{'2018-00008071': {'coordinates': {'lon': 40.003376, 'lat': -105.26297}, 'date': '01/30/2018 18:25 - 01/30/2018 18:25', 'address': '2450 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008075': {'coordinates': {'lon': '-105.263457373584', 'lat': '40.00581345'}, 'date': '01/30/2018 17:05 - 01/30/2018 17:05', 'address': '995 REGENT DR Boulder CO', 'category': 'Accident'}}
+{'2018-00000305': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '01/31/2018 20:56 - 01/31/2018 21:50', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000305': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '01/31/2018 20:56 - 01/31/2018 21:50', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00008074': {'coordinates': {'lon': 40.008266, 'lat': -105.26687}, 'date': '01/31/2018 06:00 - 01/31/2018 06:00', 'address': '2085 COLORADO AVE Boulder CO', 'category': 'Criminal'}}
+{'2018-00000144': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/20/2018 00:36 - 01/20/2018 01:19', 'address': '2200 BAKER DR Boulder CO', 'category': 'Other'}}
+{'2018-00000144': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/20/2018 00:36 - 01/20/2018 01:19', 'address': '2200 BAKER DR Boulder CO', 'category': 'Other'}}
+{'2018-00000144': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '01/20/2018 00:36 - 01/20/2018 01:19', 'address': '2200 BAKER DR Boulder CO', 'category': 'Other'}}
+{'2018-00000309': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '02/01/2018 11:00 - 02/01/2018 11:00', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000312': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/01/2018 14:00 - 02/01/2018 16:00', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Burglary'}}
+{'2018-00000312': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/01/2018 14:00 - 02/01/2018 16:00', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Burglary'}}
+{'2018-00000313': {'coordinates': {'lon': 40.006172, 'lat': -105.27277}, 'date': '02/01/2018 17:20 - 02/01/2018 22:07', 'address': '1020 BROADWAY Boulder CO', 'category': 'Traffic'}}
+{'2018-00000315': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/01/2018 17:54 - 02/01/2018 17:54', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000316': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '02/01/2018 20:30 - 02/01/2018 20:30', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000316': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '02/01/2018 20:30 - 02/01/2018 20:30', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000318': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '02/01/2018 22:10 - 02/01/2018 22:10', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000318': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '02/01/2018 22:10 - 02/01/2018 22:10', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000319': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '02/01/2018 21:54 - 02/01/2018 22:26', 'address': '500 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000319': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '02/01/2018 21:54 - 02/01/2018 22:26', 'address': '500 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000318': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '02/01/2018 22:10 - 02/01/2018 22:10', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000318': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '02/01/2018 22:10 - 02/01/2018 22:10', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000320': {'coordinates': {'lon': 40.012016, 'lat': -105.270065}, 'date': '02/02/2018 05:02 - 02/02/2018 05:02', 'address': '1900 GRANDVIEW AVE Boulder CO', 'category': 'Other'}}
+{'2018-00000327': {'coordinates': {'lon': '-105.251980725122', 'lat': '40.0149384'}, 'date': '02/02/2018 08:45 - 02/02/2018 08:45', 'address': 'BROADWAY /  ARAPAHOE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000333': {'coordinates': {'lon': 40.01403, 'lat': -105.26304}, 'date': '02/02/2018 15:00 - 02/02/2018 18:00', 'address': '1475 FOLSOM ST Boulder CO', 'category': 'Fraud/Forgery'}}
+{'2018-00000335': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '02/02/2018 20:00 - 02/02/2018 20:37', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000336': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/02/2018 20:28 - 02/02/2018 20:28', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000336': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/02/2018 20:28 - 02/02/2018 20:28', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000338': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '02/02/2018 21:45 - 02/02/2018 21:53', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000338': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '02/02/2018 21:45 - 02/02/2018 21:53', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000340': {'coordinates': {'lon': 39.996773, 'lat': -105.26093}, 'date': '02/02/2018 23:18 - 02/02/2018 23:18', 'address': '505 27TH WAY Boulder CO', 'category': 'Alcohol'}}
+{'2018-00008080': {'coordinates': {'lon': 40.003403, 'lat': -105.26265}, 'date': '01/29/2018 17:20 - 01/31/2018 05:20', 'address': '2400 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00008081': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/01/2018 17:30 - 02/02/2018 00:55', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Property'}}
+{'2018-00008083': {'coordinates': {'lon': 39.996445, 'lat': -105.25124}, 'date': '01/31/2018 21:00 - 02/02/2018 09:00', 'address': '3275 APACHE RD Boulder CO', 'category': 'Theft'}}
+{'2018-00008083': {'coordinates': {'lon': 39.996445, 'lat': -105.25124}, 'date': '01/31/2018 21:00 - 02/02/2018 09:00', 'address': '3275 APACHE RD Boulder CO', 'category': 'Theft'}}
+{'2018-00008085': {'coordinates': {'lon': 40.01403, 'lat': -105.26304}, 'date': '02/01/2018 17:00 - 02/02/2018 11:00', 'address': '1475 FOLSOM ST Boulder CO', 'category': 'Theft'}}
+{'2018-00000343': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '02/03/2018 00:30 - 02/03/2018 00:30', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000344': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/03/2018 00:19 - 02/03/2018 00:37', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000348': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/03/2018 01:20 - 02/03/2018 01:20', 'address': '600 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000350': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '02/03/2018 01:05 - 02/03/2018 01:05', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Criminal'}}
+{'2018-00000351': {'coordinates': {'lon': 40.003307, 'lat': -105.26386}, 'date': '02/03/2018 01:23 - 02/03/2018 01:23', 'address': '2590 KITTREDGE LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000353': {'coordinates': {'lon': '-105.264108295918', 'lat': '40.0052098469388'}, 'date': '02/03/2018 03:09 - 02/03/2018 03:09', 'address': '1040 REGENT DR Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000353': {'coordinates': {'lon': '-105.264108295918', 'lat': '40.0052098469388'}, 'date': '02/03/2018 03:09 - 02/03/2018 03:09', 'address': '1040 REGENT DR Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000353': {'coordinates': {'lon': '-105.264108295918', 'lat': '40.0052098469388'}, 'date': '02/03/2018 03:09 - 02/03/2018 03:09', 'address': '1040 REGENT DR Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00008087': {'coordinates': {'lon': 40.007294, 'lat': -105.26549}, 'date': '01/28/2018 12:20 - 01/28/2018 12:20', 'address': '2370 LIBBY DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000358': {'coordinates': {'lon': '-105.253023', 'lat': '40.005541'}, 'date': '02/04/2018 00:49 - 02/04/2018 01:40', 'address': '30TH ST /  EUCLID AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000358': {'coordinates': {'lon': '-105.253023', 'lat': '40.005541'}, 'date': '02/04/2018 00:49 - 02/04/2018 01:40', 'address': '30TH ST /  EUCLID AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000358': {'coordinates': {'lon': '-105.253023', 'lat': '40.005541'}, 'date': '02/04/2018 00:49 - 02/04/2018 01:40', 'address': '30TH ST /  EUCLID AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000358': {'coordinates': {'lon': '-105.253023', 'lat': '40.005541'}, 'date': '02/04/2018 00:49 - 02/04/2018 01:40', 'address': '30TH ST /  EUCLID AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000359': {'coordinates': {'lon': 40.007294, 'lat': -105.26549}, 'date': '02/04/2018 00:58 - 02/04/2018 01:57', 'address': '2370 LIBBY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000359': {'coordinates': {'lon': 40.007294, 'lat': -105.26549}, 'date': '02/04/2018 00:58 - 02/04/2018 01:57', 'address': '2370 LIBBY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000359': {'coordinates': {'lon': 40.007294, 'lat': -105.26549}, 'date': '02/04/2018 00:58 - 02/04/2018 01:57', 'address': '2370 LIBBY DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000363': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '02/04/2018 20:45 - 02/04/2018 21:08', 'address': '2005 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000364': {'coordinates': {'lon': 40.007103, 'lat': -105.26559}, 'date': '02/04/2018 21:14 - 02/04/2018 21:37', 'address': '2350 LIBBY DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2017-00003191': {'coordinates': {'lon': 40.01482, 'lat': -105.23641}, 'date': '12/01/2017 19:02 - 12/01/2017 19:02', 'address': '4747 ARAPAHOE AVE Boulder CO', 'category': 'Assault'}}
+{'2017-00003191': {'coordinates': {'lon': 40.01482, 'lat': -105.23641}, 'date': '12/01/2017 19:02 - 12/01/2017 19:02', 'address': '4747 ARAPAHOE AVE Boulder CO', 'category': 'Assault'}}
+{'2017-00003191': {'coordinates': {'lon': 40.01482, 'lat': -105.23641}, 'date': '12/01/2017 19:02 - 12/01/2017 19:02', 'address': '4747 ARAPAHOE AVE Boulder CO', 'category': 'Assault'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000368': {'coordinates': {'lon': '-105.261744', 'lat': '40.000146'}, 'date': '02/04/2018 23:51 - 02/05/2018 02:50', 'address': 'BASELINE RD /  BROADWAY Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000369': {'coordinates': {'lon': 40.01218, 'lat': -105.277824}, 'date': '02/05/2018 02:20 - 02/05/2018 03:20', 'address': '1546 BROADWAY Boulder CO', 'category': 'Drug'}}
+{'2018-00000369': {'coordinates': {'lon': 40.01218, 'lat': -105.277824}, 'date': '02/05/2018 02:20 - 02/05/2018 03:20', 'address': '1546 BROADWAY Boulder CO', 'category': 'Drug'}}
+{'2018-00000369': {'coordinates': {'lon': 40.01218, 'lat': -105.277824}, 'date': '02/05/2018 02:20 - 02/05/2018 03:20', 'address': '1546 BROADWAY Boulder CO', 'category': 'Drug'}}
+{'2018-00000372': {'coordinates': {'lon': '-105.2536997', 'lat': '40.0141963'}, 'date': '02/05/2018 18:11 - 02/05/2018 18:11', 'address': '510 30TH ST Boulder CO', 'category': 'Disturbance'}}
+{'2018-00000374': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '02/05/2018 20:20 - 02/05/2018 20:58', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000374': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '02/05/2018 20:20 - 02/05/2018 20:58', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000375': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '02/05/2018 21:19 - 02/05/2018 21:45', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000376': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '02/05/2018 22:16 - 02/05/2018 23:25', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00000376': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '02/05/2018 22:16 - 02/05/2018 23:25', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Drug'}}
+{'2018-00008088': {'coordinates': {'lon': 40.008255, 'lat': -105.268326}, 'date': '02/05/2018 17:40 - 02/05/2018 17:40', 'address': '1905 COLORADO AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00008088': {'coordinates': {'lon': 40.008255, 'lat': -105.268326}, 'date': '02/05/2018 17:40 - 02/05/2018 17:40', 'address': '1905 COLORADO AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000244': {'coordinates': {'lon': 40.008266, 'lat': -105.2676}, 'date': '01/17/2018 06:20 - 01/17/2018 06:20', 'address': '1995 COLORADO AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000336': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/02/2018 20:28 - 02/02/2018 20:28', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Criminal'}}
+{'2018-00000336': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/02/2018 20:28 - 02/02/2018 20:28', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Criminal'}}
+{'2018-00000378': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/06/2018 00:26 - 02/06/2018 00:49', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000380': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/06/2018 00:54 - 02/06/2018 01:14', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000383': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '02/06/2018 18:30 - 02/06/2018 18:30', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Harassment'}}
+{'2018-00000383': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '02/06/2018 18:30 - 02/06/2018 18:30', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Harassment'}}
+{'2018-00000385': {'coordinates': {'lon': 40.012634, 'lat': -105.27142}, 'date': '02/06/2018 20:00 - 02/06/2018 20:00', 'address': '1855 ATHENS ST Boulder CO', 'category': 'Fraud/Forgery'}}
+{'2018-00000386': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '02/06/2018 19:53 - 02/06/2018 20:38', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000387': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/06/2018 22:08 - 02/06/2018 22:08', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000387': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/06/2018 22:08 - 02/06/2018 22:08', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000391': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '02/06/2018 17:00 - 02/06/2018 18:00', 'address': '2005 BAKER DR Boulder CO', 'category': 'Assault'}}
+{'2018-00000391': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '02/06/2018 17:00 - 02/06/2018 18:00', 'address': '2005 BAKER DR Boulder CO', 'category': 'Assault'}}
+{'2018-00000392': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/07/2018 01:42 - 02/07/2018 01:42', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000392': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/07/2018 01:42 - 02/07/2018 01:42', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000395': {'coordinates': {'lon': '-105.2642444', 'lat': '40.0038877'}, 'date': '02/07/2018 18:28 - 02/07/2018 19:10', 'address': '900 REGENT DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000398': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '02/07/2018 22:57 - 02/07/2018 23:22', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000399': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '02/07/2018 23:09 - 02/07/2018 23:59', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000402': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/08/2018 00:56 - 02/08/2018 01:09', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000403': {'coordinates': {'lon': '-105.262271496453', 'lat': '40.00222405'}, 'date': '02/08/2018 03:44 - 02/08/2018 03:47', 'address': '2525 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000403': {'coordinates': {'lon': '-105.262271496453', 'lat': '40.00222405'}, 'date': '02/08/2018 03:44 - 02/08/2018 03:47', 'address': '2525 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000405': {'coordinates': {'lon': '-105.261052683238', 'lat': '40.0067495'}, 'date': '02/08/2018 10:39 - 02/08/2018 10:39', 'address': '1050 REGENT DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000407': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '02/08/2018 14:10 - 02/08/2018 14:10', 'address': '2005 BAKER DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000407': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '02/08/2018 14:10 - 02/08/2018 14:10', 'address': '2005 BAKER DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000408': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '02/07/2018 14:00 - 02/08/2018 15:00', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Other'}}
+{'2018-00000408': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '02/07/2018 14:00 - 02/08/2018 15:00', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Other'}}
+{'2018-00000410': {'coordinates': {'lon': '-105.2657491', 'lat': '40.0067686'}, 'date': '02/08/2018 14:00 - 02/08/2018 14:00', 'address': '2291 LIBBY DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000411': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '02/08/2018 20:15 - 02/08/2018 20:15', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000412': {'coordinates': {'lon': 39.99994, 'lat': -105.25022}, 'date': '02/05/2018 10:00 - 02/08/2018 21:00', 'address': '3300 BASELINE RD Boulder CO', 'category': 'Criminal'}}
+{'2018-00000414': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '02/08/2018 21:56 - 02/08/2018 22:12', 'address': '2005 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000416': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '02/08/2018 22:38 - 02/08/2018 23:01', 'address': '2115 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000407': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '02/08/2018 14:10 - 02/08/2018 14:10', 'address': '2005 BAKER DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000407': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '02/08/2018 14:10 - 02/08/2018 14:10', 'address': '2005 BAKER DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000417': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '02/09/2018 00:40 - 02/09/2018 00:40', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000419': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '02/09/2018 01:18 - 02/09/2018 02:26', 'address': '2200 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000420': {'coordinates': {'lon': '-105.2536997', 'lat': '40.0141963'}, 'date': '02/09/2018 02:20 - 02/09/2018 02:20', 'address': '550 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000421': {'coordinates': {'lon': '-105.261052683238', 'lat': '40.0067495'}, 'date': '02/09/2018 10:21 - 02/09/2018 10:21', 'address': '1050 REGENT DR Boulder CO', 'category': 'Accident'}}
+{'2018-00000422': {'coordinates': {'lon': 40.00851, 'lat': -105.24583}, 'date': '02/09/2018 09:49 - 02/09/2018 10:40', 'address': '1234 INNOVATION DR Boulder CO', 'category': 'Warrant'}}
+{'2018-00000422': {'coordinates': {'lon': 40.00851, 'lat': -105.24583}, 'date': '02/09/2018 09:49 - 02/09/2018 10:40', 'address': '1234 INNOVATION DR Boulder CO', 'category': 'Warrant'}}
+{'2018-00000423': {'coordinates': {'lon': '-105.264091510204', 'lat': '40.0054816326531'}, 'date': '02/09/2018 08:25 - 02/09/2018 08:25', 'address': '1075 REGENT DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000423': {'coordinates': {'lon': '-105.264091510204', 'lat': '40.0054816326531'}, 'date': '02/09/2018 08:25 - 02/09/2018 08:25', 'address': '1075 REGENT DR Boulder CO', 'category': 'Traffic'}}
+{'2018-00000425': {'coordinates': {'lon': '-105.261052683238', 'lat': '40.0067495'}, 'date': '02/09/2018 14:15 - 02/09/2018 14:15', 'address': '1050 REGENT DR Boulder CO', 'category': 'Property'}}
+{'2018-00000430': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '02/09/2018 18:51 - 02/09/2018 18:51', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000430': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '02/09/2018 18:51 - 02/09/2018 18:51', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000432': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '02/09/2018 19:55 - 02/09/2018 20:05', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000433': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '02/09/2018 20:56 - 02/09/2018 21:11', 'address': '2200 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000436': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '02/09/2018 21:45 - 02/10/2018 02:30', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000437': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '02/09/2018 22:22 - 02/09/2018 22:34', 'address': '2115 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000439': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '02/09/2018 22:19 - 02/10/2018 00:09', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Warrant'}}
+{'2018-00000440': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '02/09/2018 22:47 - 02/09/2018 23:45', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000440': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '02/09/2018 22:47 - 02/09/2018 23:45', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000436': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '02/09/2018 21:45 - 02/10/2018 02:30', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000439': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '02/09/2018 22:19 - 02/10/2018 00:09', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Warrant'}}
+{'2018-00000441': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '02/09/2018 23:50 - 02/10/2018 00:00', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000442': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/10/2018 00:10 - 02/10/2018 00:29', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000443': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/10/2018 00:22 - 02/10/2018 00:41', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000445': {'coordinates': {'lon': 40.00397, 'lat': -105.266205}, 'date': '02/10/2018 01:14 - 02/10/2018 01:31', 'address': '2200 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000446': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '02/10/2018 01:20 - 02/10/2018 01:20', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Criminal'}}
+{'2018-00000448': {'coordinates': {'lon': '-105.2536997', 'lat': '40.0141963'}, 'date': '02/10/2018 02:02 - 02/10/2018 02:52', 'address': '510 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000449': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/10/2018 02:27 - 02/10/2018 02:27', 'address': '600 30TH ST Boulder CO', 'category': 'Disturbance'}}
+{'2018-00000455': {'coordinates': {'lon': '-105.262271496453', 'lat': '40.00222405'}, 'date': '02/10/2018 20:47 - 02/10/2018 21:16', 'address': '2525 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000455': {'coordinates': {'lon': '-105.262271496453', 'lat': '40.00222405'}, 'date': '02/10/2018 20:47 - 02/10/2018 21:16', 'address': '2525 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000458': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '02/10/2018 22:05 - 02/10/2018 22:17', 'address': '2115 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000459': {'coordinates': {'lon': '-105.2665553', 'lat': '40.006929'}, 'date': '02/10/2018 22:31 - 02/10/2018 23:00', 'address': '2115 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000460': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/10/2018 23:42 - 02/10/2018 23:59', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000461': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/11/2018 00:06 - 02/11/2018 00:35', 'address': '600 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000462': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/10/2018 00:37 - 02/11/2018 01:02', 'address': '600 30TH ST Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000463': {'coordinates': {'lon': '-105.2610012', 'lat': '40.0024048'}, 'date': '02/11/2018 02:00 - 02/11/2018 02:00', 'address': '2605 KITTREDGE LOOP DR Boulder CO', 'category': 'Other'}}
+{'2018-00000463': {'coordinates': {'lon': '-105.2610012', 'lat': '40.0024048'}, 'date': '02/11/2018 02:00 - 02/11/2018 02:00', 'address': '2605 KITTREDGE LOOP DR Boulder CO', 'category': 'Other'}}
+{'2018-00000464': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/11/2018 13:28 - 02/11/2018 13:28', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Other'}}
+{'2018-00000465': {'coordinates': {'lon': '-105.261052683238', 'lat': '40.0067495'}, 'date': '02/11/2018 14:14 - 02/11/2018 14:14', 'address': '1050 REGENT DR Boulder CO', 'category': 'Harassment'}}
+{'2018-00000467': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/11/2018 20:05 - 02/11/2018 20:34', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000467': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/11/2018 20:05 - 02/11/2018 20:34', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000403': {'coordinates': {'lon': '-105.262271496453', 'lat': '40.00222405'}, 'date': '02/08/2018 03:44 - 02/08/2018 03:47', 'address': '2525 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000403': {'coordinates': {'lon': '-105.262271496453', 'lat': '40.00222405'}, 'date': '02/08/2018 03:44 - 02/08/2018 03:47', 'address': '2525 KITTREDGE LOOP DR Boulder CO', 'category': 'Theft'}}
+{'2018-00000468': {'coordinates': {'lon': 40.010254, 'lat': -105.25349}, 'date': '02/12/2018 01:00 - 02/12/2018 01:00', 'address': '1300 30TH ST Boulder CO', 'category': 'Warrant'}}
+{'2018-00000473': {'coordinates': {'lon': 40.008213, 'lat': -105.264305}, 'date': '02/12/2018 13:00 - 02/12/2018 13:00', 'address': '2360 COLORADO AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000474': {'coordinates': {'lon': 40.008347, 'lat': -105.24346}, 'date': '02/12/2018 12:42 - 02/12/2018 12:42', 'address': '4001 DISCOVERY DR Boulder CO', 'category': 'Sex'}}
+{'2018-00000477': {'coordinates': {'lon': 40.012634, 'lat': -105.27142}, 'date': '02/12/2018 19:01 - 02/12/2018 19:45', 'address': '1855 ATHENS ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000477': {'coordinates': {'lon': 40.012634, 'lat': -105.27142}, 'date': '02/12/2018 19:01 - 02/12/2018 19:45', 'address': '1855 ATHENS ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000480': {'coordinates': {'lon': 40.00471, 'lat': -105.26603}, 'date': '02/12/2018 22:15 - 02/12/2018 22:15', 'address': '2250 WILLARD LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000481': {'coordinates': {'lon': '-105.2610012', 'lat': '40.0024048'}, 'date': '02/12/2018 22:58 - 02/12/2018 23:20', 'address': '2605 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000487': {'coordinates': {'lon': '-105.261052683238', 'lat': '40.0067495'}, 'date': '02/08/2018 13:30 - 02/13/2018 14:14', 'address': '1050 REGENT DR Boulder CO', 'category': 'Damage'}}
+{'2018-00000488': {'coordinates': {'lon': 40.003376, 'lat': -105.26297}, 'date': '02/13/2018 14:45 - 02/13/2018 14:45', 'address': '2450 KITTREDGE LOOP DR Boulder CO', 'category': 'Other'}}
+{'2018-00000491': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '02/13/2018 20:52 - 02/13/2018 21:03', 'address': '2200 BAKER DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000492': {'coordinates': {'lon': '-105.2659889', 'lat': '40.0058264'}, 'date': '02/13/2018 21:07 - 02/13/2018 21:25', 'address': '2200 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000493': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/14/2018 00:40 - 02/14/2018 01:17', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000493': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/14/2018 00:40 - 02/14/2018 01:17', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Drug'}}
+{'2018-00000494': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '02/14/2018 08:45 - 02/14/2018 10:00', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Traffic'}}
+{'2018-00000499': {'coordinates': {'lon': '-105.2657491', 'lat': '40.0067686'}, 'date': '02/14/2018 18:00 - 02/14/2018 18:00', 'address': '2291 LIBBY DR Boulder CO', 'category': 'Accident'}}
+{'2018-00000501': {'coordinates': {'lon': 40.003307, 'lat': -105.26386}, 'date': '02/14/2018 21:30 - 02/14/2018 21:30', 'address': '2590 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000501': {'coordinates': {'lon': 40.003307, 'lat': -105.26386}, 'date': '02/14/2018 21:30 - 02/14/2018 21:30', 'address': '2590 KITTREDGE LOOP DR Boulder CO', 'category': 'Drug'}}
+{'2018-00000503': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/14/2018 23:20 - 02/14/2018 23:20', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000503': {'coordinates': {'lon': 40.050877, 'lat': -105.25494}, 'date': '02/14/2018 23:20 - 02/14/2018 23:20', 'address': '600 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000505': {'coordinates': {'lon': '-105.272381', 'lat': '40.005663'}, 'date': '02/14/2018 23:43 - 02/14/2018 23:43', 'address': 'BROADWAY /  16TH ST Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000506': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '02/15/2018 00:10 - 02/15/2018 00:10', 'address': '2005 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000506': {'coordinates': {'lon': '-105.267833779135', 'lat': '40.00647935'}, 'date': '02/15/2018 00:10 - 02/15/2018 00:10', 'address': '2005 BAKER DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000508': {'coordinates': {'lon': 39.999943, 'lat': -105.24936}, 'date': '02/15/2018 01:02 - 02/15/2018 01:20', 'address': '3400 BASELINE RD Boulder CO', 'category': 'Criminal'}}
+{'2018-00000510': {'coordinates': {'lon': '-105.252947', 'lat': '40.000596'}, 'date': '02/15/2018 02:40 - 02/15/2018 02:40', 'address': '30TH ST /  BASELINE RD Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000510': {'coordinates': {'lon': '-105.252947', 'lat': '40.000596'}, 'date': '02/15/2018 02:40 - 02/15/2018 02:40', 'address': '30TH ST /  BASELINE RD Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000510': {'coordinates': {'lon': '-105.252947', 'lat': '40.000596'}, 'date': '02/15/2018 02:40 - 02/15/2018 02:40', 'address': '30TH ST /  BASELINE RD Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000510': {'coordinates': {'lon': '-105.252947', 'lat': '40.000596'}, 'date': '02/15/2018 02:40 - 02/15/2018 02:40', 'address': '30TH ST /  BASELINE RD Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000510': {'coordinates': {'lon': '-105.252947', 'lat': '40.000596'}, 'date': '02/15/2018 02:40 - 02/15/2018 02:40', 'address': '30TH ST /  BASELINE RD Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000510': {'coordinates': {'lon': '-105.252947', 'lat': '40.000596'}, 'date': '02/15/2018 02:40 - 02/15/2018 02:40', 'address': '30TH ST /  BASELINE RD Boulder CO', 'category': 'DUI/DWAI'}}
+{'2018-00000518': {'coordinates': {'lon': 40.00823, 'lat': -105.2648}, 'date': '02/15/2018 17:00 - 02/15/2018 17:00', 'address': '2300 COLORADO AVE Boulder CO', 'category': 'Other'}}
+{'2018-00000518': {'coordinates': {'lon': 40.00823, 'lat': -105.2648}, 'date': '02/15/2018 17:00 - 02/15/2018 17:00', 'address': '2300 COLORADO AVE Boulder CO', 'category': 'Other'}}
+{'2018-00000520': {'coordinates': {'lon': 40.003365, 'lat': -105.26316}, 'date': '02/15/2018 19:33 - 02/15/2018 19:33', 'address': '2480 KITTREDGE LOOP DR Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000522': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '02/15/2018 22:00 - 02/15/2018 22:00', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000522': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '02/15/2018 22:00 - 02/15/2018 22:00', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00000522': {'coordinates': {'lon': '-105.252363915826', 'lat': '39.9981042'}, 'date': '02/15/2018 22:00 - 02/15/2018 22:00', 'address': '500 30TH ST Boulder CO', 'category': 'Drug'}}
+{'2018-00008122': {'coordinates': {'lon': 40.005993, 'lat': -105.271385}, 'date': '02/15/2018 08:05 - 02/15/2018 17:15', 'address': '1669 EUCLID AVE Boulder CO', 'category': 'Theft'}}
+{'2018-00000529': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/16/2018 01:36 - 02/16/2018 04:04', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Other'}}
+{'2018-00000530': {'coordinates': {'lon': '-105.2709554', 'lat': '40.0102797'}, 'date': '02/16/2018 03:30 - 02/16/2018 03:30', 'address': '1720 UNIVERSITY AVE Boulder CO', 'category': 'Alcohol'}}
+{'2018-00000531': {'coordinates': {'lon': 40.01412, 'lat': -105.26304}, 'date': '02/15/2018 22:00 - 02/16/2018 07:00', 'address': '1481 FOLSOM ST Boulder CO', 'category': 'Criminal'}}
+{'2018-00000531': {'coordinates': {'lon': 40.01412, 'lat': -105.26304}, 'date': '02/15/2018 22:00 - 02/16/2018 07:00', 'address': '1481 FOLSOM ST Boulder CO', 'category': 'Criminal'}}
+{'2018-00000531': {'coordinates': {'lon': 40.01412, 'lat': -105.26304}, 'date': '02/15/2018 22:00 - 02/16/2018 07:00', 'address': '1481 FOLSOM ST Boulder CO', 'category': 'Criminal'}}
