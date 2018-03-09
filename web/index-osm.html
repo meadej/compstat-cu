@@ -28,12 +28,12 @@
               source: new ol.source.OSM()
             }),
             new ol.layer.Vector({
-              title: 'added Layer',
-              source: new ol.source.GeoJSON({
-                projection : 'EPSG:3857',
-                url: 'crime_db.geojson'
-              })
-            })
+              title: 'points',
+              source: new ol.source.Vector({
+ 	      	url: 'crime_db.geojson',
+  		format: new ol.format.GeoJSON()
+	      })
+           })
           ],
           view: new ol.View({
             center: ol.proj.fromLonLat([40.007678, -105.266030]),
