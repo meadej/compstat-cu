@@ -51,8 +51,8 @@ class geocoding_interface():
     def get_lat_long_from_census_content(self, content):
         j_data = json.loads(content)
         try:
-            lat = j_data['result']['addressMatches'][0]['coordinates']['x']
-            lon = j_data['result']['addressMatches'][0]['coordinates']['y']
+            lon = j_data['result']['addressMatches'][0]['coordinates']['x']
+            lat = j_data['result']['addressMatches'][0]['coordinates']['y']
             return (lat, lon)
         except Exception as ex:
             self.handle_exception(ex, "get_lat_long_from_census_content")
