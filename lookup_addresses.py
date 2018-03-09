@@ -17,7 +17,7 @@ def lookup_address(address_string, gi):
             lat_long = gi.get_lat_long_from_osm_content(content)
             return lat_long
         except:
-            print("No matches found - " + address_string)
+            return None
 
 
 address_arr = []
@@ -28,7 +28,6 @@ f_handle = open(os.getcwd() + data_file)
 for line in f_handle.readlines():
     j_line_data = json.loads(line)
     case_number = list(j_line_data.keys())[0]
-    print(type(j_line_data[case_number]))
     lat_lon = lookup_address(j_line_data[case_number]['address'], geo_int)
     if lat_lon != None:
         j_line_data[case_number]["coordinates"] = {}
