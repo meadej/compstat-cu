@@ -1,1 +1,1 @@
-# cu-blotter
+# compstat@cu
