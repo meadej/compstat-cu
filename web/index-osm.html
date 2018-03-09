@@ -22,26 +22,23 @@
 		    <div id="map" class="map"></div>
         <script>
           var map = new ol.Map({
-          target: 'map',
-          layers: [
-            new ol.layer.Tile({
-              source: new ol.source.OSM()
-            }),
-		/*
-            new ol.layer.Vector({
-              title: 'points',
-              source: new ol.source.Vector({
- 	      	      url: 'crime_db.geojson',
-  		          format: new ol.format.GeoJSON()
-	            })
-           })
-		*/
-          ],
-          view: new ol.View({
-            center: ol.proj.fromLonLat([40.007678, -105.266030]),
-            zoom: 4
-          })
-        });
+            target: 'map',
+            layers: [
+              new ol.layer.Tile({
+                source: new ol.source.OSM()
+              }),
+              new ol.layer.Vector({
+                source: new ol.source.Vector({
+                  format: new ol.format.GeoJSON(),
+                  url: 'crime_db.geojson'
+                })
+              })
+            ],
+            view: new ol.View({
+              center: ol.proj.fromLonLat([-105.266030, 40.007678]),
+              zoom: 16
+            })
+          });
       </script>
 	  	</div>
   	</div>
