@@ -4,6 +4,9 @@
 ## CompStat
 CompStat@CU is a specialized set of data-analysis tools used to analyze crime and crime trends on CU Boulder's campus. While CompStat as a whole embodies a wide-ranging set of policing philosophies and methods (the DOJ recently did a neat report on its growth and development [here](https://www.bja.gov/publications/perf-compstat.pdf)), this tool is strictly an algorithim-driven piece of software. 
 
+## Documentation
+All documentation about this system can be found in the /docs/ folder.
+
 ## Data Sources
 - Crime data is provided courtesy of the CUPD, which releases daily crime logs about incidents on campus [here](https://www.colorado.edu/police/records-reports/daily-crime-log).   
 - Geocoding data, which allows us to turn street addresses into exact coordinates, is from the [US Census Bureau](https://www.census.gov/geo/maps-data/data/geocoder.html) and OpenStreetMap's nifty [Nominatim](https://wiki.openstreetmap.org/wiki/Nominatim) tool. 

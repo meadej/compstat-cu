@@ -38,3 +38,9 @@ html, body
 {
 	color: white;
 }
+
+.about-content
+{
+	height: 90%;
+	margin: 0px;
+}
