@@ -7,12 +7,15 @@ html, body
 .container-fluid
 {
 	height: 100%;
+	width: 100%;
+	padding: 0px;
 }
 
 .r-header
 {
 	height: 10%;
 	width: 100%;
+	margin: 0px;
 }
 
 .map-container
@@ -29,4 +32,9 @@ html, body
 .nav-head
 {
 	width:100%;
+}
+
+.navbar-brand a
+{
+	color: white;
 }
