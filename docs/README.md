@@ -14,5 +14,6 @@ CompStat@CU is a specialized set of data-analysis tools used to analyze crime an
 
 ## Disclaimer
 This data is as up to date as we can make it, however, it is **not** guaranteed to be 100% accurate or complete.   
-I **am not affiliated** with the University or the Police Department as an employee or official.   
-Feel free to get in touch with me at the email on my GitHub profile. I'm always down to talk more about this program and data analysis in general. Also huge shoutout to the men and women of the CUPD who make CU a safe and secure place to live and study. 
+I **am not affiliated** with the University or the Police Department as an employee or official.
+Feel free to get in touch with me at the email on my GitHub profile. I'm always down to talk more about this program and data analysis in general.   
+Also huge shoutout to the men and women of the CUPD who make CU a safe and secure place to live and study.
