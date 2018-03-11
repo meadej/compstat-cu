@@ -12,7 +12,7 @@ def convert_to_geojson(s_json):
     ret_dict["type"] = "Feature"
     case_number = list(s_json.keys())[0]
     geo_dict["type"] = "Point"
-    geo_dict["coordinates"] = [s_json[case_number]["coordinates"]["lat"], s_json[case_number]["coordinates"]["lon"]]
+    geo_dict["coordinates"] = [s_json[case_number]["coordinates"]["lon"], s_json[case_number]["coordinates"]["lat"]]
     ret_dict["geometry"] = geo_dict
     prop_dict["category"] = s_json[case_number]["category"]
     ret_dict["properties"] = prop_dict
