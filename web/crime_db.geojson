@@ -1,4 +1,4 @@
-{"type": "FeatureCollection","features": [
+var data = {"type": "FeatureCollection","features": [
 {"properties": {"category": "Assault"}, "geometry": {"coordinates": [40.01482, -105.23641], "type": "Point"}, "type": "Feature"},
 {"properties": {"category": "Assault"}, "geometry": {"coordinates": [40.01482, -105.23641], "type": "Point"}, "type": "Feature"},
 {"properties": {"category": "Assault"}, "geometry": {"coordinates": [40.01482, -105.23641], "type": "Point"}, "type": "Feature"},
