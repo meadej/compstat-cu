@@ -9,6 +9,7 @@ All documentation about this system can be found in the `/docs/` folder. Conside
 
 ## Data Sources
 - Crime data is provided courtesy of the CUPD, which releases daily crime logs about incidents on campus [here](https://www.colorado.edu/police/records-reports/daily-crime-log).   
+- Map tiles are provided courtesy of the [OpenStreetMap](https://www.openstreetmap.org) database, the license of which is included in the docs. 
 - Geocoding data, which allows us to turn street addresses into exact coordinates, is from the [US Census Bureau](https://www.census.gov/geo/maps-data/data/geocoder.html) and OpenStreetMap's nifty [Nominatim](https://wiki.openstreetmap.org/wiki/Nominatim) tool. 
 
 ## Future Features
