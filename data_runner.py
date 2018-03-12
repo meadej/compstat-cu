@@ -1,6 +1,7 @@
 from datetime import datetime
 from datetime import timedelta
 from data_fetcher import data_fetcher
+import os
 
 def get_last_n_days(n):
     numdays = n
@@ -23,7 +24,7 @@ def main():
     title_list = []
     for i in range(0, len(date_list)):
         title_list.append(str(formatted_date_list[i]) + ".pdf")
-    pdf_fetcher.store_objects_locally(title_list, pdf_list, "/home/jon/code/cu-blotter/pdfs/")
+    pdf_fetcher.store_objects_locally(title_list, pdf_list, os.getcwd() + "/pdfs/")
     return
 
 main()

@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 
 def read_standard_json(string):
     j_data = json.loads(string)
@@ -41,8 +42,12 @@ def write_geojson_closer_to_file(file_location):
     f_handle.write(closing_json_string)
     f_handle.close()
 
-data_file = os.getcwd() + "/full_crime_db.json"
-out_file = os.getcwd() + "/crime_db.geojson"
+if len(sys.argv) < 3:
+    print("Usage: python standard_to_geo_json.py [input file] [output file]")
+    exit(1)
+
+data_file = os.getcwd() + "/" + sys.argv[1]
+out_file = os.getcwd() + "/" + sys.argv[2]
 
 data_handle = open(data_file)
 
