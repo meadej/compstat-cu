@@ -41,7 +41,7 @@ for line in f_handle.readlines():
         j_line_data[case_number]["coordinates"]["lat"] = float(lat_lon[0])
         j_line_data[case_number]["coordinates"]["lon"] = float(lat_lon[1])
         j_return_data = json.dumps(j_line_data)
-        o_handle.write(j_return_data)
+        o_handle.write(j_return_data + "\n")
 
 f_handle.close()
 o_handle.close()
