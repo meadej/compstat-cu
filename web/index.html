@@ -26,18 +26,61 @@
   		<div class="row map-container">
 		    <div id="map" class="map"></div>
         <script>
-          var mymap = L.map('map').setView([40.007678, -105.266030], 16);
+          markerRadius = 8
+          markerWeight = 1
+          markerOpacity = 1
+          markerFillOpacity = 0.2
+          var theftMarker = {
+            radius: markerRadius,
+            fillColor: "#ff7800",
+            color: "#000",
+            weight: markerWeight,
+            opacity: markerOpacity,
+            fillOpacity: markerFillOpacity
+          };
+          var drugMarker = {
+            radius: markerRadius,
+            fillColor: "#00b300",
+            color: "#000",
+            weight: markerWeight,
+            opacity: markerOpacity,
+            fillOpacity: markerFillOpacity
+          }
+          var alcoholMarker = {
+            radius: markerRadius,
+            fillColor: "#80b3ff",
+            color: "#000",
+            weight: markerWeight,
+            opacity: markerOpacity,
+            fillOpacity: markerFillOpacity
+
+          }
+          var mainmap = L.map('map').setView([40.007678, -105.266030], 16);
           L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 18, 
             minZoom: 12,
             attribution: 'Data courtesy <a href="https://www.colorado.edu/police/">University of Colorado Police   </a>'
-          }).addTo(mymap);   
+          }).addTo(mainmap);   
           var dataLayer = L.geoJSON(data, {
             onEachFeature: function (feature, layer) {
               layer.bindPopup("<h6>"+feature.properties.category+"</h6>");
+            },
+            pointToLayer: function (feature, latlng) {
+              console.log(feature);
+              switch (feature.properties.category) {
+                case "Theft":
+                  return L.circleMarker(latlng, theftMarker);
+                  break;
+                case "Drug":
+                  return L.circleMarker(latlng, drugMarker);
+                  break;
+                case "Alcohol":
+                  return L.circleMarker(latlng, alcoholMarker);
+                  break;
+              }
             }
           });
-          dataLayer.addTo(mymap);
+          dataLayer.addTo(mainmap);
         </script>
 	  	</div>
   	</div>
