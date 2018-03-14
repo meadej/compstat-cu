@@ -17,6 +17,7 @@ def convert_to_geojson(s_json):
     ret_dict["geometry"] = geo_dict
     prop_dict["category"] = s_json[case_number]["category"]
     ret_dict["properties"] = prop_dict
+    ret_dict["date"] = s_json[case_number]["date"]
     ret_json = json.dumps(ret_dict)
     return ret_json
 
